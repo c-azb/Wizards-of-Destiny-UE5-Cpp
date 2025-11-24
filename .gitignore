@@ -1,0 +1,10 @@
+
+#only code repo
+
+*.sln
+*.uproject
+.vsconfig
+Plugins/
+DerivedDataCache/
+Config/
+Content/
